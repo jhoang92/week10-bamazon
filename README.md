@@ -5,3 +5,6 @@ This application is made to show some of the MySQL skills that has been recently
 This app contains the following NPM packages:
 `MySQL`
 `Inquirer`
+
+# TO DO
+fix memory leak
